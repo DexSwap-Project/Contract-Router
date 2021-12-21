@@ -1,0 +1,18 @@
+{
+    "mainnet": {
+      "router": "0x0000000000000000000000000000000000000000"
+    },
+
+    "harmony": {
+      "router": "0x317270f947c70fAe15b899ccfCd5b8cD696E9cb6"
+    },
+
+    "harmony_testnet": {
+      "router": "0x92fb6E32A82b2d6a8fe7629926e3305c9a181036"
+    },
+
+    "rinkeby": {
+      "router": "0xA83De401F65a8D13ee9331210B459A3229a70943"
+    }
+
+}
